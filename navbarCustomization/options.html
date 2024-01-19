@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Extension Options</title>
+</head>
+<body>
+  <form id="options-form">
+    <input type="hidden" id="edit-index" value="">
+    <label for="domain">Domain:</label>
+    https://<input type="text" id="domain" name="domain">.qbench.net<br>
+
+    <label for="backgroundColor">Navbar Background Color:</label>
+    <input type="color" id="backgroundColor" name="backgroundColor"><br>
+
+    <label for="text">Navbar Text:</label>
+    <input type="text" id="text" name="text"><br>
+
+    <label for="color">Navbar Text Color:</label>
+    <input type="color" id="color" name="color"><br>
+
+    <button type="button" id="add-setting">Add Setting</button>
+  </form>
+
+  <div id="settings-list">
+    <!-- Settings will be displayed here -->
+  </div>
+
+  <script src="options.js"></script>
+</body>
+</html>

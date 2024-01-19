@@ -13,6 +13,8 @@ To use this plugin as-is -
 1) Download the .xpi file in the navbarCustomization folder
 2) Drag and drop into a firefox window
 3) Accept any permissions necessary to install the plugin
+4) Navigate to about:addons in your browser and select the "..." button next to the QBench Navbar Extension
+5) Open the Extension Options. This will take you to another page where you can add customizations via a UI.
 
 To use a modified version of the plugin -
 1) Change the source code and revise as needed. Please create a separate branch and submit a PR.
