@@ -3,6 +3,9 @@ Plugins for modifying qbench for internal use.
 
 
 # Navbar Customization
+-- Current Version: v1.1 -- 
+-- Uploaded 1/19/2024 1:03 AM UTC --
+
 Changes the styling of the navbar in different QBench sites and serves as an alert to show which site is active.
 
 To use this plugin as-is - 
