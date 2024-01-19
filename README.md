@@ -15,7 +15,7 @@ To use this plugin as-is -
 3) Accept any permissions necessary to install the plugin
 
 To use a modified version of the plugin -
-1) Change the source code and revise as needed. Please create a separate branch or subfolder.
+1) Change the source code and revise as needed. Please create a separate branch and submit a PR.
 2) Create a developer account at https://addons.mozilla.org/en-US/developers/
 3) Submit a new add-on
 4) Download the manifest.json and any js files needed to run the script
@@ -25,4 +25,4 @@ To use a modified version of the plugin -
 8) Upload the .xpi file along with the source code as .zip to the add-on submission form
 9) Wait until the extension is signed and approved (this usually only takes a few minutes)
 10) Go to "My Add-Ons" -> "Your Add-On" -> "Manage Status and Versions" and click the download link at the top of the view to install.
-11) Save the downloaded .xpi file and submit to your fork or subfolder to share the active version
+11) Save the downloaded .xpi file and submit to your fork to share the active version with the PR.
